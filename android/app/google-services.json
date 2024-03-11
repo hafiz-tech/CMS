@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "987671867971",
+    "project_id": "davincic-7ecf7",
+    "storage_bucket": "davincic-7ecf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:987671867971:android:8d7ac7f03d9dcfccefdaf6",
+        "android_client_info": {
+          "package_name": "com.app.davincic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "987671867971-3uim4ejlcvr362pkfaf54amhthp6hs3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.davincic",
+            "certificate_hash": "6d17a660834d2f173a94cea017361892d4af2c47"
+          }
+        },
+        {
+          "client_id": "987671867971-4ocfq213vf547ma8r72a6i09b432qa51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.davincic",
+            "certificate_hash": "f55f47916ba029cc817ff26b956a20c7c28930a7"
+          }
+        },
+        {
+          "client_id": "987671867971-n57vkhfibrha1iq9jfv4msou4421gb6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0_TlDsOo1XQpt1nTxt-1KAb-Tnce5lyQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "987671867971-d6s3j42r5tmln2qp2vbphrc5af3mcpb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
